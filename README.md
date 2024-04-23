@@ -10,3 +10,6 @@ para la creación de aplicaciones en las áreas más demandadas , las descargas 
 Fue un reto medirme a sacar análisis de una de las plataformas la companía más importante de Tecnología e Información a nivel mundial.
 
 Llevado a cabo bajo la supervisión de mis profesores y con una de las mejores notas del curso.
+
+
+La Google Play Store es una plataforma central para la distribución de contenido digital en el ecosistema Android, y proporciona a los usuarios una forma conveniente de acceder a una amplia gama de aplicaciones y entretenimiento para sus dispositivos.
